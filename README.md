@@ -1,4 +1,4 @@
-# Google Docs Clone
+# Collaborative Docs
 
 A real-time collaborative text editor inspired by Google Docs. Users can create
 and edit documents in real-time with other users. The application uses Socket.io
