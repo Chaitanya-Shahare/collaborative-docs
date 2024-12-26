@@ -4,13 +4,21 @@ A real-time collaborative text editor inspired by Google Docs. Users can create
 and edit documents in real-time with other users. The application uses Socket.io
 to handle real-time communication between clients and the server.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/3bbdf80a-989c-4bcf-9ba7-cfe02a6f9bc9
+
+
+
+
 ## Tech Stack
 
 - JavaScript
 - Client
   - React
   - React-Router-Dom
-  - Quill (Text Editor)
+  - Quill (Rich Text Editor)
   - Socket.io
 - Server
   - Node.js
